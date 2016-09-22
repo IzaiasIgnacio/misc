@@ -1,0 +1,657 @@
+<?xml version='1.0'?>
+<gameList>
+	<game>
+		<path>./005.zip</path>
+		<name>005</name>
+		<desc>005 is a 1981 arcade game by Sega, in which the player's mission is to take a briefcase of secret documents to a waiting helicopter. It is one of the first examples of a stealth game. The player controls a spy who must avoid the enemies as he makes his way through buildings and warehouses, where he will have to dodge the enemies' flashlights and use boxes as hiding spots.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/005-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1981</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle, Stealth</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./10yard.zip</path>
+		<name>10-Yard Fight (World, set 1)</name>
+		<desc>The game is viewed in a top-down perspective and is vertical scrolling. The player does not select plays for either offense or defense. On offense, the player simply receives the ball upon the snap and either attempt to run with the quarterback, toss the ball to a running back, or throw the ball to the one long distance receiver - basically the option offense. On defense, the player chooses one of two players to control, and the computer manipulates the others. The ball can also be punted or a field goal can be attempted.
+10-Yard Fight has five levels of difficulty; from easiest to most difficult: high school, college, professional, playoff, and Super Bowl. If the player wins both halves of an "accelerated real time" 30-minute half at an easier level, the player advanced to the next level of difficulty, like a career mode.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/10yard-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1983</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./10yardj.zip</path>
+		<name>10-Yard Fight (Japan)</name>
+		<desc>The game is viewed in a top-down perspective and is vertical scrolling. The player does not select plays for either offense or defense. On offense, the player simply receives the ball upon the snap and either attempt to run with the quarterback, toss the ball to a running back, or throw the ball to the one long distance receiver - basically the option offense. On defense, the player chooses one of two players to control, and the computer manipulates the others. The ball can also be punted or a field goal can be attempted.
+10-Yard Fight has five levels of difficulty; from easiest to most difficult: high school, college, professional, playoff, and Super Bowl. If the player wins both halves of an "accelerated real time" 30-minute half at an easier level, the player advanced to the next level of difficulty, like a career mode.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/10yardj-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1983</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./18w.zip</path>
+		<name>18 Wheeler (set 1)</name>
+		<desc>The main purpose is to make it to the finish line with your cargo within a given time.
+
+There are special vehicles that you can ram into that will add three seconds to your time. They look like purple Chevy Astro Vans. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/18w-image.jpg</image>
+		<rating></rating>
+		<releasedate>11/11/2001</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./18w2.zip</path>
+		<name>18 Wheeler (set 2)</name>
+		<desc>The main purpose is to make it to the finish line with your cargo within a given time.
+
+There are special vehicles that you can ram into that will add three seconds to your time. They look like purple Chevy Astro Vans. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/18w2-image.jpg</image>
+		<rating></rating>
+		<releasedate>11/11/2001</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./18wheelr.zip</path>
+		<name>18 Wheeler (deluxe) (Rev A)</name>
+		<desc>The main purpose is to make it to the finish line with your cargo within a given time.
+
+There are special vehicles that you can ram into that will add three seconds to your time. They look like purple Chevy Astro Vans. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/18wheelr-image.jpg</image>
+		<rating></rating>
+		<releasedate>11/11/2001</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./18wheels.zip</path>
+		<name>18 Wheeler (standard)</name>
+		<desc>The main purpose is to make it to the finish line with your cargo within a given time.
+
+There are special vehicles that you can ram into that will add three seconds to your time. They look like purple Chevy Astro Vans. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/18wheels-image.jpg</image>
+		<rating></rating>
+		<releasedate>11/11/2001</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./18wheelu.zip</path>
+		<name>18 Wheeler (upright)</name>
+		<desc>The main purpose is to make it to the finish line with your cargo within a given time.
+
+There are special vehicles that you can ram into that will add three seconds to your time. They look like purple Chevy Astro Vans. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/18wheelu-image.jpg</image>
+		<rating></rating>
+		<releasedate>11/11/2001</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./1941.zip</path>
+		<name>1941: Counter Attack (World 900227)</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1941-image.jpg</image>
+		<rating></rating>
+		<releasedate>02/01/1990</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1941j.zip</path>
+		<name>1941: Counter Attack (Japan)</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1941j-image.jpg</image>
+		<rating></rating>
+		<releasedate>02/01/1990</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1941r1.zip</path>
+		<name>1941: Counter Attack (World)</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1941r1-image.jpg</image>
+		<rating></rating>
+		<releasedate>02/01/1990</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1941u.zip</path>
+		<name>1941: Counter Attack (USA 900227)</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1941u-image.jpg</image>
+		<rating></rating>
+		<releasedate>02/01/1990</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942 (Revision B)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942a.zip</path>
+		<name>1942 (Revision A)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942a-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942abl.zip</path>
+		<name>1942 (Revision A, bootleg)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942abl-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942b.zip</path>
+		<name>1942 (First Version)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942b-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942h.zip</path>
+		<name>42</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942h-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942p.zip</path>
+		<name>1942 (Tecfri PCB, bootleg?)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942p-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1942w.zip</path>
+		<name>1942 (Williams Electronics license)</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942w-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/01/1984</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943.zip</path>
+		<name>1943: The Battle of Midway (Euro)</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1987</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943j.zip</path>
+		<name>1943: Midway Kaisen (Japan</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943j-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1987</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943kai.zip</path>
+		<name>1943 Kai: Midway Kaisen (Japan)</name>
+		<desc>This updated version was released exactly one year after the original game's debut. 1943 Kai is an enhanced, "wild" version of 1943 that was made only available in Japan under the name 1943 Kai: Midway Kaisen (or 1943改: ミッドウェイ海戦). Most of the graphics and sounds have been reworked, the weapons have been made more extreme and some fairly strange things (laser-firing WWII planes and ships that run on ground) have been added. The trademark P-38 has been replaced with a biplane, the Boeing-Stearman Model 75.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943kai-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1988</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./1943u.zip</path>
+		<name>1943: The Battle of Midway (US</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943u-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1987</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944: The Loop Master (USA 000620)</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1944-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/20/2000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1944d.zip</path>
+		<name>1944: The Loop Master (USA 000620 Phoenix Edition) (bootleg)</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1944d-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/20/2000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1944da.zip</path>
+		<name>1944: The Loop Master (USA 000620 Phoenix Edition) (bootleg alt)</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1944da-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/20/2000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1944j.zip</path>
+		<name>1944: The Loop Master (Japan 000620)</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1944j-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/20/2000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1945kiii.zip</path>
+		<name>1945k III</name>
+		<desc>1945kIII is a scrolling shooter arcade video game. It was developed and published by the Korean developer Oriental Software in 2000.
+
+In this game, the player controls a fighter and has to shoot as many enemy fighters as possible while the stage is moving forward. There are many bonuses and new weapons available. The gameplay is reminiscent of several 1980s scrolling shooter arcade video games, and is therefore considered a retro game.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1945kiii-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/2000</releasedate>
+		<developer>Promat</developer>
+		<publisher>Oriental Soft</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xx.zip</path>
+		<name>19XX: The War Against Destiny (USA 951207)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xx-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxa.zip</path>
+		<name>19XX: The War Against Destiny (Asia 960104)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxa-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxar1.zip</path>
+		<name>19XX: The War Against Destiny (Asia 951207)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxar1-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxb.zip</path>
+		<name>19XX: The War Against Destiny (Brazil 951218)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxb-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxd.zip</path>
+		<name>19XX: The War Against Destiny (USA 951207 Phoenix Edition) (bootleg)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxd-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxh.zip</path>
+		<name>19XX: The War Against Destiny (Hispanic 951218)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxh-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxj.zip</path>
+		<name>19XX: The War Against Destiny (Japan 960104, yellow case)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxj-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxjr1.zip</path>
+		<name>19XX: The War Against Destiny (Japan 951225)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxjr1-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xxjr2.zip</path>
+		<name>19XX: The War Against Destiny (Japan 951207)</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/19xxjr2-image.jpg</image>
+		<rating></rating>
+		<releasedate>12/07/1995</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1on1gov.zip</path>
+		<name>1 on 1 Government (Japan)</name>
+		<desc>1 on 1 Government was produced by Tecmo in 2000</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1on1gov-image.jpg</image>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./2020bb.zip</path>
+		<name>2020 Super Baseball (set 1)</name>
+		<desc>Super Baseball 2020 is a futuristic baseball video game. It was first released in Japan for the Neo Geo in 1991, and then it was later released in North America for the Mega Drive/Genesis (ported by NuFX and released by Electronic Arts) and Super Nintendo Entertainment System (released by Tradewest) in 1993.
+
+The game follows the basic rules of baseball, but there are several upgrades since the game takes place in the year 2020. The most obvious difference from real baseball is that some of the characters in this game are robots. All the human characters are equipped with powerful armor, computer sensors, and jet-packs for improved offense and defensive skills.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/2020bb-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1991</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./2020bba.zip</path>
+		<name>2020 Super Baseball (set 2)</name>
+		<desc>Super Baseball 2020 is a futuristic baseball video game. It was first released in Japan for the Neo Geo in 1991, and then it was later released in North America for the Mega Drive/Genesis (ported by NuFX and released by Electronic Arts) and Super Nintendo Entertainment System (released by Tradewest) in 1993.
+
+The game follows the basic rules of baseball, but there are several upgrades since the game takes place in the year 2020. The most obvious difference from real baseball is that some of the characters in this game are robots. All the human characters are equipped with powerful armor, computer sensors, and jet-packs for improved offense and defensive skills.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/2020bba-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1991</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./2020bbcd.zip</path>
+		<name>2020 Super Baseball (NGCD Conversion)</name>
+		<desc>Super Baseball 2020 is a futuristic baseball video game. It was first released in Japan for the Neo Geo in 1991, and then it was later released in North America for the Mega Drive/Genesis (ported by NuFX and released by Electronic Arts) and Super Nintendo Entertainment System (released by Tradewest) in 1993.
+
+The game follows the basic rules of baseball, but there are several upgrades since the game takes place in the year 2020. The most obvious difference from real baseball is that some of the characters in this game are robots. All the human characters are equipped with powerful armor, computer sensors, and jet-packs for improved offense and defensive skills.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/2020bbcd-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1991</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./2020bbh.zip</path>
+		<name>2020 Super Baseball (set 3)</name>
+		<desc>Super Baseball 2020 is a futuristic baseball video game. It was first released in Japan for the Neo Geo in 1991, and then it was later released in North America for the Mega Drive/Genesis (ported by NuFX and released by Electronic Arts) and Super Nintendo Entertainment System (released by Tradewest) in 1993.
+
+The game follows the basic rules of baseball, but there are several upgrades since the game takes place in the year 2020. The most obvious difference from real baseball is that some of the characters in this game are robots. All the human characters are equipped with powerful armor, computer sensors, and jet-packs for improved offense and defensive skills.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/2020bbh-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1991</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./20pacgal.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgal-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943b.zip</path>
+		<name>1943: Battle of Midway (bootleg</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943b-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1987</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943ua.zip</path>
+		<name>1943: The Battle of Midway (US)</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943ua-image.jpg</image>
+		<rating></rating>
+		<releasedate>06/01/1987</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20pacgalr0.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.00)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgalr0-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20pacgalr1.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.01)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgalr1-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20pacgalr2.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.02)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgalr2-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20pacgalr3.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.03)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgalr3-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20pacgalr4.zip</path>
+		<name>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.04)</name>
+		<desc>The gameplay of Ms. Pac-Man is identical to the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the extent of the ghosts' vulnerability, eventually stopping altogether.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/20pacgalr4-image.jpg</image>
+		<rating></rating>
+		<releasedate>01/01/1981</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./280zzzap.zip</path>
+		<name>280-ZZZAP</name>
+		<desc>The game is a simple black and white monochrome driving game. You control a car through a night time scene, and the road is represented by simple posts at the edges. The top of the screen will display information about upcoming curves (like the maximum safe speed to take them at), while the bottom of the screen has a speedometer, timer, scoreboard, and may also display a few tips as well. Just drive, and don't crash. Pay attention to your speed on the corners to avoid crashing.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/280zzzap-image.jpg</image>
+		<rating></rating>
+		<releasedate>09/01/1976</releasedate>
+		<developer>Midway</developer>
+		<publisher></publisher>
+		<genre>Racing</genre>
+		<players></players>
+	</game>
